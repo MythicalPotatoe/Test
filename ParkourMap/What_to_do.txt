@@ -1,0 +1,2 @@
+Put the folder called Parkour into your .minecraft\saves folder
+Put the folder called ParkourTexturePack into .minecraft\reasourcepacks
